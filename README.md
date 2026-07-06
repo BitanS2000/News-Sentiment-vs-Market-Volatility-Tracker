@@ -1,4 +1,3 @@
-# News-Sentiment-vs-Market-Volatility-Tracker
 # News Sentiment vs Market Volatility Tracker
 
 Tracks daily news sentiment against market volatility for a portfolio of AI-sector stocks, to explore whether news sentiment correlates with (or leads) price volatility.
